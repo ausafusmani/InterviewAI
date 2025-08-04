@@ -1,4 +1,5 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://interviewai-6w9i.onrender.com";
+// export const BASE_URL = "http://localhost:8000";
 
 export const API_PATHS = {
   AUTH: {
